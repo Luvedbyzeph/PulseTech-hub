@@ -1,2 +1,1 @@
-# PulseTech-hub
-Pulse tech
+# PulseTech
